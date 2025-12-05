@@ -42,7 +42,7 @@ body{
         align-items: center;
         justify-content: center;
         position:fixed;
-        top:0;
+        top:15rem;
     }
     .logo .img{
        
@@ -182,3 +182,4 @@ body{
         }
 
      }
+
